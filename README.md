@@ -29,11 +29,13 @@ AstroChat is a multi-platform messaging application designed to replicate the fu
 
 ## Demo Application View
 
-[View Demo Application]([view_hyperlink](https://github.com/GunaShankar0213/AstroChat_Android/blob/main/Astrochat%20Android%20demo.mp4))
+[View Demo Application](https://github.com/GunaShankar0213/AstroChat_Android/blob/main/Astrochat%20Android%20demo.mp4)
+
 
 ### GitHub Repository: AstroChat Desktop
 
-For the desktop group chat implementation, visit the [AstroChat Desktop]([Astrochat_desktop](https://github.com/GunaShankar0213/AstroChat_Desktop)) repository for the Python code and Firebase integration details.
+For the desktop group chat implementation, visit the [AstroChat Desktop](https://github.com/GunaShankar0213/AstroChat_Desktop) repository for the Python code and Firebase integration details.
+
 
 ## Technologies Used
 - **Android Studio** for mobile app development
